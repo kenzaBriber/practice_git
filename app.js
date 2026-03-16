@@ -1,2 +1,1 @@
-console.log("feature test");
-print("kenza");
+print("hello");
